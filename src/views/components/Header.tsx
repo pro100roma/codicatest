@@ -7,7 +7,7 @@ const Header = () => {
     return (
         <AppBar position="relative">
           <Toolbar>
-              <Link to="/" style={{ color: 'white', display: 'flex' }}>
+              <Link to="/codicatest" style={{ color: 'white', display: 'flex' }}>
                 <WbSunnyIcon sx={{ mr: 2 }} />
               </Link>
           </Toolbar>
